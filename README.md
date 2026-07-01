@@ -23,8 +23,8 @@
 | 8 | [Artificial Intelligence for Multiscale Modeling in Solid-State Physics and Chemistry: A Comprehensive Review](https://doi.org/10.1002/aisy.202501219) ★ | 2026 | Adv. Intell. Syst. | Wiley |
 | 9 | [Machine learning–driven thermoelectric materials: Review on prediction, optimization, and discovery](https://doi.org/10.1016/j.jallcom.2025.185711) ★ | 2026 | J. Alloys Compd. | Elsevier |
 | 10 | [Decoding the ZT optimization of BiCuSeO thermoelectrics via interpretable machine learning](https://doi.org/10.1016/j.ces.2025.122970) | 2026 | Chem. Eng. Sci. | Elsevier |
-| 11 | [Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates](https://doi.org/10.1103/PhysRevB.113.045102) | 2026 | Phys. Rev. B | APS |
-| 12 | [Large Language Model-Assisted Discovery of Optimal Dopants for Enhanced Thermoelectric Performance in CoSb₃-Based Skutterudites](https://doi.org/10.1016/j.actamat.2026.119990) | 2026 | Acta Mater. | Elsevier |
+| 11 | [Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates](https://arxiv.org/abs/2605.11610) | 2026 | arXiv | Cornell University |
+| 12 | [Large Language Model-Assisted Discovery of Optimal Dopants for Enhanced Thermoelectric Performance in CoSb₃-Based Skutterudites](https://arxiv.org/abs/2604.06048) | 2026 | arXiv | Cornell University |
 | 13 | [Machine Learning Predictions of Thermopower for Thermoelectric Material Screening](https://doi.org/10.1021/acsaem.5c02609) | 2025 | ACS Appl. Energy Mater. | ACS |
 | 14 | [Thermoelectric Properties in Skutterudite Materials: Integrating Experimental Data, Density Functional Theory, and Machine Learning](https://doi.org/10.1021/acsaem.5c00445) | 2025 | ACS Appl. Energy Mater. | ACS |
 | 15 | [Thermoelectric Material Performance (zT) Predictions with Machine Learning](https://doi.org/10.1021/acsami.4c19149) | 2025 | ACS Appl. Mater. Interfaces | ACS |
