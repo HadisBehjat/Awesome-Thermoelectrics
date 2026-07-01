@@ -22,7 +22,7 @@
 | 7 | [Advances in Generative Models for Accelerated Discovery of New Materials](https://doi.org/10.1002/csc3.70010) | 2026 | ChemSusChem | Wiley |
 | 8 | [Artificial Intelligence for Multiscale Modeling in Solid-State Physics and Chemistry: A Comprehensive Review](https://doi.org/10.1002/aisy.202501219) ★ | 2026 | Adv. Intell. Syst. | Wiley |
 | 9 | [Machine learning–driven thermoelectric materials: Review on prediction, optimization, and discovery](https://doi.org/10.1016/j.jallcom.2025.185711) ★ | 2026 | J. Alloys Compd. | Elsevier |
-| 10 | [Decoding the ZT optimization of BiCuSeO thermoelectrics via interpretable machine learning](https://doi.org/10.1016/j.ces.2026.122970) | 2026 | Chem. Eng. Sci. | Elsevier |
+| 10 | [Decoding the ZT optimization of BiCuSeO thermoelectrics via interpretable machine learning](https://doi.org/10.1016/j.ces.2025.122970) | 2026 | Chem. Eng. Sci. | Elsevier |
 | 11 | [Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates](https://doi.org/10.1103/PhysRevB.113.045102) | 2026 | Phys. Rev. B | APS |
 | 12 | [Large Language Model-Assisted Discovery of Optimal Dopants for Enhanced Thermoelectric Performance in CoSb₃-Based Skutterudites](https://doi.org/10.1016/j.actamat.2026.119990) | 2026 | Acta Mater. | Elsevier |
 | 13 | [Machine Learning Predictions of Thermopower for Thermoelectric Material Screening](https://doi.org/10.1021/acsaem.5c02609) | 2025 | ACS Appl. Energy Mater. | ACS |
