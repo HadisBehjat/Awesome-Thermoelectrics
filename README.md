@@ -45,7 +45,7 @@
 | 30 | [Machine learning for predictive design and optimization of high-performance thermoelectric materials](https://doi.org/10.1016/j.matdes.2025.113801) | 2025 | Mater. Des. | Elsevier |
 | 31 | [A machine learning-based framework for predicting the power factor of thermoelectric materials](https://doi.org/10.1016/j.commatsci.2025.113904) | 2025 | Comput. Mater. Sci. | Elsevier |
 | 32 | [High-performance stacking ensemble learning for thermoelectric figure-of-merit prediction](https://doi.org/10.1016/j.chemolab.2024.105201) | 2025 | Chemom. Intell. Lab. Syst. | Elsevier |
-| 33 | [Machine learning for predictive design and optimization of high-performance thermoelectric materials: a review](https://doi.org/10.1016/j.pmatsci.2024.101389) ★ | 2025 | Prog. Mater. Sci. | Elsevier |
+| 33 | [Machine learning for predictive design and optimization of high-performance thermoelectric materials: a review](https://doi.org/10.20517/jmi.2025.18) ★ | 2025 | J. Mater. Informatics | HEP Journals |
 | 34 | [A review on machine learning driven next generation thermoelectric generators](https://doi.org/10.1016/j.enconman.2024.101092) ★ | 2025 | Energy Convers. Manag. X | Elsevier |
 | 35 | [Data-driven insights into the electronic and thermoelectric properties of 1T-Li2O: a combined DFT and ML investigation](https://doi.org/10.1016/j.rineng.2025.105407) | 2025 | Results Eng. | Elsevier |
 | 36 | [Unlocking the structural, vibrational, electronic, optical and thermoelectric properties of K2X (X=S, Se, Te) monolayers via DFT and ML](https://doi.org/10.1016/j.rineng.2025.105817) | 2025 | Results Eng. | Elsevier |
