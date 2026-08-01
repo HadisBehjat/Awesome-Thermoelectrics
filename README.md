@@ -13,7 +13,7 @@
 
 | # | Title | Year | Journal | Publisher |
 |---|-------|------|---------|-----------|
-| 1 | [Data-Driven Exploration and Insights into Temperature-Dependent Phonons in Inorganic Materials](https://arxiv.org/abs/2601.09123v1) | 2026 | arXiv | Cornell University |
+| 1 | [Data-Driven Exploration and Insights into Temperature-Dependent Phonons in Inorganic Materials](https://arxiv.org/abs/2601.09123v1) | 2026 | arXiv | - |
 | 2 | [Lattice-to-Total Thermal Conductivity Ratio: A Phonon-Glass Electron-Crystal Descriptor for Data-Driven Thermoelectric Design](https://arxiv.org/abs/2511.21213v2) | 2026 | arXiv | Cornell University |
 | 3 | [Closed-loop discovery of energy materials empowered by artificial intelligence models](https://doi.org/10.1039/d6dd00218h) ★ | 2026 | Digital Discovery | RSC |
 | 4 | [Efficient Descriptors for the Power Factor of Thermoelectric Materials](https://doi.org/10.1021/acsaem.6c00590) | 2026 | ACS Appl. Energy Mater. | ACS |
@@ -27,7 +27,7 @@
 | 12 | [Artificial Intelligence for Multiscale Modeling in Solid-State Physics and Chemistry: A Comprehensive Review](https://doi.org/10.1002/aisy.202501219) ★ | 2026 | Adv. Intell. Syst. | Wiley |
 | 13 | [Machine learning–driven thermoelectric materials: Review on prediction, optimization, and discovery](https://doi.org/10.1016/j.jallcom.2025.185711) ★ | 2026 | J. Alloys Compd. | Elsevier |
 | 14 | [Decoding the ZT optimization of BiCuSeO thermoelectrics via interpretable machine learning](https://doi.org/10.1016/j.ces.2025.122970) | 2026 | Chem. Eng. Sci. | Elsevier |
-| 15 | [Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates](https://arxiv.org/abs/2605.11610) | 2026 | arXiv | Cornell University |
+| 15 | [Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates](https://arxiv.org/abs/2605.11610) | 2026 | arXiv | - |
 | 16 | [Large Language Model-Assisted Discovery of Optimal Dopants for Enhanced Thermoelectric Performance in CoSb₃-Based Skutterudites](https://arxiv.org/abs/2604.06048) | 2026 | arXiv | Cornell University |
 | 17 | [Machine Learning Predictions of Thermopower for Thermoelectric Material Screening](https://doi.org/10.1021/acsaem.5c02609) | 2025 | ACS Appl. Energy Mater. | ACS |
 | 18 | [Thermoelectric Properties in Skutterudite Materials: Integrating Experimental Data, Density Functional Theory, and Machine Learning](https://doi.org/10.1021/acsaem.5c00445) | 2025 | ACS Appl. Energy Mater. | ACS |
