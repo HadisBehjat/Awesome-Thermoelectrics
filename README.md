@@ -25,7 +25,7 @@
 | 10 | [Rational Design of Single-Phase High-Entropy Oxides via Large Language Model Data Mining and Explainable Machine Learning](https://doi.org/10.1021/acs.jcim.6c00752) | 2026 | J. Chem. Inf. Model. | ACS |
 | 11 | [Bridging Machine Learning and Zintl Phase Thermoelectric Materials: The Ca9–xEuxZn4.5–yCuySb9 System](https://doi.org/10.1021/acs.chemmater.6c00656) | 2026 | Chem. Mater. | ACS |
 | 12 | [Artificial intelligence-driven approaches for materials design and discovery](https://doi.org/10.1038/s41563-025-02403-7) | 2026 | Nat. Mater. | Springer Nature |
-| 13 | [Advances in Generative Models for Accelerated Discovery of New Materials](https://doi.org/10.1002/csc3.70010) | 2026 | ChemSusChem | Wiley |
+| 13 | [Advances in Generative Models for Accelerated Discovery of New Materials](https://doi.org/10.1002/csc3.70010) | 2026 | cScience | Wiley |
 | 14 | [Artificial Intelligence for Multiscale Modeling in Solid-State Physics and Chemistry: A Comprehensive Review](https://doi.org/10.1002/aisy.202501219) ★ | 2026 | Adv. Intell. Syst. | Wiley |
 | 15 | [Machine learning–driven thermoelectric materials: Review on prediction, optimization, and discovery](https://doi.org/10.1016/j.jallcom.2025.185711) ★ | 2026 | J. Alloys Compd. | Elsevier |
 | 16 | [Decoding the ZT optimization of BiCuSeO thermoelectrics via interpretable machine learning](https://doi.org/10.1016/j.ces.2025.122970) | 2026 | Chem. Eng. Sci. | Elsevier |
@@ -50,7 +50,7 @@
 | 35 | [Leveraging generative models with periodicity-aware, invertible and invariant representations for crystalline materials design](https://doi.org/10.1038/s43588-025-00797-7) | 2025 | Nat. Comput. Sci. | Springer Nature |
 | 36 | [Machine learning for predictive design and optimization of high-performance thermoelectric materials](https://doi.org/10.1016/j.matdes.2025.113801) | 2025 | Mater. Des. | Elsevier |
 | 37 | [A machine learning-based framework for predicting the power factor of thermoelectric materials](https://doi.org/10.1016/j.commatsci.2025.113904) | 2025 | Comput. Mater. Sci. | Elsevier |
-| 38 | [High-performance stacking ensemble learning for thermoelectric figure-of-merit prediction](https://doi.org/10.1016/j.chemolab.2024.105201) | 2025 | Chemom. Intell. Lab. Syst. | Elsevier |
+| 38 | [High-performance stacking ensemble learning for thermoelectric figure-of-merit prediction](https://doi.org/10.1016/j.matdes.2024.113552) | 2025 | Mater. Des. | Elsevier |
 | 39 | [Machine learning for predictive design and optimization of high-performance thermoelectric materials: a review](https://doi.org/10.20517/jmi.2025.18) ★ | 2025 | J. Mater. Informatics | HEP Journals |
 | 40 | [A review on machine learning driven next generation thermoelectric generators](https://doi.org/10.1016/j.ecmx.2025.101092) ★ | 2025 | Energy Convers. Manag. X | Elsevier |
 | 41 | [Data-driven insights into the electronic and thermoelectric properties of 1T-Li2O: a combined DFT and ML investigation](https://doi.org/10.1016/j.rineng.2025.105407) | 2025 | Results Eng. | Elsevier |
@@ -64,8 +64,8 @@
 | 49 | [Machine learning based feature engineering for thermoelectric materials by design](https://doi.org/10.1039/d3dd00131h) | 2024 | Digit. Discovery | RSC |
 | 50 | [Machine Learning-Driven Inverse Design and Role of Dopant for Tuning Thermoelectric Efficiency](https://doi.org/10.1021/acsaelm.4c00808) | 2024 | ACS Appl. Electron. Mater. | ACS |
 | 51 | [Leveraging language representation for materials exploration and discovery](https://doi.org/10.1038/s41524-024-01231-8) | 2024 | npj Comput. Mater. | Springer Nature |
-| 52 | [Semiconductors for enhanced solar photovoltaic-thermoelectric 4E performance optimization: multi-objective genetic algorithm and machine learning approach]([https://doi.org/10.1016/j.enconman.2024.118221](https://doi.org/10.1016/j.rineng.2024.102573)) | 2024 | Results Eng. | Elsevier |
-| 53 | [Modeling thermoelectric performance of doped BiCuSeO oxychalcogenide ceramics using genetically hybridized support vector regression computational method](https://doi.org/10.1016/j.mtchem.2024.102105) | 2024 | Mater. Today Sustain. | Elsevier |
+| 52 | [Semiconductors for enhanced solar photovoltaic-thermoelectric 4E performance optimization: multi-objective genetic algorithm and machine learning approach](https://doi.org/10.1016/j.rineng.2024.102573) | 2024 | Results Eng. | Elsevier |
+| 53 | [Modeling thermoelectric performance of doped BiCuSeO oxychalcogenide ceramics using genetically hybridized support vector regression computational method](https://doi.org/10.1016/j.mtsust.2024.100924) | 2024 | Mater. Today Sustain. | Elsevier |
 | 54 | [Thermoelectric properties enhancement and optimization of SnTe-based material with single doping: RSM-ANN approach](https://doi.org/10.1016/j.matchemphys.2024.129779) | 2024 | Mater. Chem. Phys. | Elsevier |
 | 55 | [Dealing with the big data challenges in AI for thermoelectric materials](https://doi.org/10.1007/s40843-023-2777-2) | 2024 | Sci. China Mater. | Springer Nature |
 | 56 | [Multimodal sensing algorithm using thermoelectric dynamics for self-powered skin-like sensory devices](https://doi.org/10.1016/j.cej.2024.150168) | 2024 | Chem. Eng. J. | Elsevier |
@@ -75,7 +75,7 @@
 | 60 | [Predicting the thermoelectric figure of merit in p-type BiSbTe-based alloys using artificial neural network modeling](https://doi.org/10.1016/j.mtcomm.2024.109396) | 2024 | Mater. Today Commun. | Elsevier |
 | 61 | [The development of an augmented machine learning approach for the additive manufacturing of thermoelectric materials](https://doi.org/10.1016/j.jmapro.2024.02.045) | 2024 | J. Manuf. Process. | Elsevier |
 | 62 | [Process optimization on kesterite-based ceramics for enhancing their thermoelectric performances assisted by active machine learning approach](https://doi.org/10.1016/j.actamat.2024.120342) | 2024 | 	Acta Mater. | Elsevier |
-| 63 | [HH130: a standardized database of machine learning interatomic potentials, datasets, and its applications in the thermal transport of half-Heusler thermoelectrics](https://doi.org/10.1038/s41524-024-01211-y) | 2024 | 	Digital Discovery | RSC |
+| 63 | [HH130: a standardized database of machine learning interatomic potentials, datasets, and its applications in the thermal transport of half-Heusler thermoelectrics](https://doi.org/10.1039/d4dd00240g) | 2024 | Digital Discovery | RSC |
 | 64 | [High-throughput discovery of metal oxides with high thermoelectric performance via interpretable feature engineering on small data](https://doi.org/10.1016/j.actamat.2023.119421) | 2024 | Acta Mater. | Elsevier |
 | 65 | [Predicting lattice thermal conductivity via machine learning: a mini review](https://doi.org/10.1038/s41524-023-00964-2) ★ | 2023 | npj Comput. Mater. | Springer Nature |
 | 66 | [Artificial Intelligence Guided Thermoelectric Materials Design and Discovery](https://doi.org/10.1002/aelm.202300042) ★ | 2023 | Adv. Electron. Mater. | Wiley |
@@ -87,7 +87,7 @@
 | 72 | [A critical review of machine learning techniques on thermoelectric materials](https://doi.org/10.1021/acs.jpclett.3c00180) ★ | 2023 | J. Phys. Chem. Lett. | ACS |
 | 73 | [Hybrid data-driven discovery of high-performance silver selenide-based thermoelectric composites](https://doi.org/10.1016/j.compositesb.2023.110755) | 2023 | Compos. Part B Eng. | Elsevier |
 | 74 | [Ensemble learning-based investigation of thermal conductivity of Bi2Te2.7Se0.3-based thermoelectric clean energy materials](https://doi.org/10.1016/j.est.2023.107221) | 2023 | J. Energy Storage | Elsevier |
-| 75 | [Knowledge extraction and performance improvement of Bi2Te3-based thermoelectric materials by machine learning](https://doi.org/10.1016/j.jmat.2023.02.005) | 2023 | J. Materiomics | Elsevier |
+| 75 | [Knowledge extraction and performance improvement of Bi2Te3-based thermoelectric materials by machine learning](https://doi.org/10.1016/j.mtphys.2023.100971) | 2023 | Mater. Today Phys. | Elsevier |
 | 76 | [Prediction of lattice thermal conductivity with two-stage interpretable machine learning](https://doi.org/10.1016/j.commatsci.2023.112105) | 2023 | Comput. Mater. Sci. | Elsevier |
 | 77 | [A machine learning methodology to investigate the lattice thermal conductivity of defected PbTe](https://doi.org/10.1016/j.ijheatmasstransfer.2023.124012) | 2023 | Int. J. Heat Mass Transfer | Elsevier |
 | 78 | [Prediction of superior thermoelectric performance in unexplored doped-BiCuSeO via machine learning](https://doi.org/10.1016/j.solidstatesciences.2023.107115) | 2023 | Solid State Sci. | Elsevier |
