@@ -56,9 +56,9 @@
 | 41 | [Data-driven insights into the electronic and thermoelectric properties of 1T-Li2O: a combined DFT and ML investigation](https://doi.org/10.1016/j.rineng.2025.105407) | 2025 | Results Eng. | Elsevier |
 | 42 | [Unlocking the structural, vibrational, electronic, optical and thermoelectric properties of K2X (X=S, Se, Te) monolayers via DFT and ML](https://doi.org/10.1016/j.rineng.2025.105817) | 2025 | Results Eng. | Elsevier |
 | 43 | [Explainable machine learning-guided design of high-performance thermoelectric materials](https://doi.org/10.1016/j.jallcom.2025.182164) | 2025 | J. Alloys Compd. | Elsevier |
-| 44 | [Machine learning-assisted 3D printing of thermoelectric materials of ultrahigh performances at room temperature](https://doi.org/10.1038/s41467-024-46811-2) | 2024 | Nat. Commun. | Springer Nature |
-| 45 | [Discovery of the layered thermoelectric compound GeBi2Se4 and accelerating its performance optimization by machine learning](https://doi.org/10.1038/s41524-024-01255-0) | 2024 | npj Comput. Mater. | Springer Nature |
-| 46 | [Determination of electrical and thermal conductivities of n-and p-type thermoelectric materials by prediction iteration machine learning method](https://doi.org/10.1016/j.energy.2024.130985) | 2024 | Energy | Elsevier |
+| 44 | [Machine learning-assisted 3D printing of thermoelectric materials of ultrahigh performances at room temperature](https://doi.org/10.1039/D4TA03062A) | 2024 | J. Mater. Chem. A | RSC |
+| 45 | [Discovery of the layered thermoelectric compound GeBi2Se4 and accelerating its performance optimization by machine learning](https://doi.org/10.1002/admt.202300882) | 2024 | Advanced Materials Technologies | Wiley |
+| 46 | [Determination of electrical and thermal conductivities of n-and p-type thermoelectric materials by prediction iteration machine learning method](https://doi.org/10.1016/j.energy.2024.130597) | 2024 | Energy | Elsevier |
 | 47 | [Machine learning for next-generation thermoelectrics](https://doi.org/10.1016/j.mtener.2024.101700) ★ | 2024 | Mater. Today Energy | Elsevier |
 | 48 | [Interpretable Machine Learning Model on Thermal Conductivity Using Publicly Available Datasets and Our Internal Lab Dataset](https://doi.org/10.1021/acs.chemmater.4c01696) | 2024 | Chem. Mater. | ACS |
 | 49 | [Machine learning based feature engineering for thermoelectric materials by design](https://doi.org/10.1039/d3dd00131h) | 2024 | Digit. Discovery | RSC |
@@ -124,7 +124,7 @@
 | 109 | [Ensemble-machine-learning-based correlation analysis of internal and band characteristics of thermoelectric materials](https://doi.org/10.1016/j.jmat.2020.02.001) | 2020 | J. Materiomics | Elsevier |
 | 110 | [Processing optimization and property predictions of hot-extruded Bi-Te-Se thermoelectric materials via machine learning](https://doi.org/10.1016/j.jmatprotec.2020.116652) | 2020 | J. Mater. Process. Technol. | Elsevier |
 | 111 | [Active learning for the power factor prediction in diamond-like thermoelectric materials](https://doi.org/10.1038/s41524-020-0291-1) | 2020 | npj Comput. Mater. | Springer Nature |
-| 112 | [Materials discovery and properties prediction in thermal transport via materials informatics: A mini review](https://doi.org/10.1016/j.cct.2019.105886) ★ | 2019 | Comput. Mater. Sci. | Elsevier |
+| 112 | [Materials discovery and properties prediction in thermal transport via materials informatics: A mini review](https://doi.org/10.1021/acs.nanolett.8b05196) ★ | 2019 | Nano Letters | ACS |
 | 113 | [Data-driven analysis of electron relaxation times in PbTe-type thermoelectric materials](https://doi.org/10.1080/14686996.2019.1603885) | 2019 | Sci. Technol. Adv. Mater. | Taylor & Francis |
 | 114 | [Coupling High-throughput Property Map to Machine Learning for Predicting Lattice Thermal Conductivity](https://doi.org/10.1021/acs.chemmater.9b01046) | 2019 | Chem. Mater. | ACS |
 | 115 | [Machine Learning Interatomic Potentials as Emerging Tools for Materials Science](https://doi.org/10.1002/adma.201902765) | 2019 | Adv. Mater. | Wiley |
