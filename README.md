@@ -14,9 +14,9 @@
 | # | Title | Year | Journal | Publisher |
 |---|-------|------|---------|-----------|
 | 1 | [A Machine Learning Web Application for Real-Time Thermoelectric Property Predictions](https://doi.org/10.1021/acsomega.6c01225) | 2026 | ACS Omega | ACS |
-| 2 | [Multi-task Attention for Doped Thermoelectric Properties Prediction](https://doi.org/10.26434/chemrxiv-2025-jcgjz) | 2026 | ChemRxiv | - |
-| 3 | [Data-Driven Exploration and Insights into Temperature-Dependent Phonons in Inorganic Materials](https://arxiv.org/abs/2601.09123v1) | 2026 | arXiv | - |
-| 4 | [Lattice-to-Total Thermal Conductivity Ratio: A Phonon-Glass Electron-Crystal Descriptor for Data-Driven Thermoelectric Design](https://arxiv.org/abs/2511.21213v2) | 2026 | arXiv | - |
+| 2 | [Multi-task Attention for Doped Thermoelectric Properties Prediction](https://doi.org/10.1088/2632-2153/ae6416) | 2026 | Machine Learning: Science and Technology | IOP |
+| 3 | [Data-Driven Exploration and Insights into Temperature-Dependent Phonons in Inorganic Materials](https://doi.org/10.1002/smll.202600071) | 2026 | Small | Wiley |
+| 4 | [Lattice-to-Total Thermal Conductivity Ratio: A Phonon-Glass Electron-Crystal Descriptor for Data-Driven Thermoelectric Design](https://doi.org/10.1016/j.mtphys.2026.102166) | 2026 | Mater. Today Phys. | Elsevier |
 | 5 | [Closed-loop discovery of energy materials empowered by artificial intelligence models](https://doi.org/10.1039/d6dd00218h) ★ | 2026 | Digital Discovery | RSC |
 | 6 | [Efficient Descriptors for the Power Factor of Thermoelectric Materials](https://doi.org/10.1021/acsaem.6c00590) | 2026 | ACS Appl. Energy Mater. | ACS |
 | 7 | [Machine learning discovery of medium-entropy thermoelectric materials with ultralow lattice thermal conductivity](https://doi.org/10.1039/d5ta09114d) | 2026 | J. Mater. Chem. A | RSC |
@@ -34,7 +34,7 @@
 | 19 | [Machine Learning Predictions of Thermopower for Thermoelectric Material Screening](https://doi.org/10.1021/acsaem.5c02609) | 2025 | ACS Appl. Energy Mater. | ACS |
 | 20 | [Thermoelectric Properties in Skutterudite Materials: Integrating Experimental Data, Density Functional Theory, and Machine Learning](https://doi.org/10.1021/acsaem.5c00445) | 2025 | ACS Appl. Energy Mater. | ACS |
 | 21 | [Thermoelectric Material Performance (zT) Predictions with Machine Learning](https://doi.org/10.1021/acsami.4c19149) | 2025 | ACS Appl. Mater. Interfaces | ACS |
-| 22 | [AI-Driven Defect Engineering for Advanced Thermoelectric Materials](https://doi.org/10.1002/adma.202505642) | 2025 | Adv. Mater. | Wiley |
+| 22 | [AI-Driven Defect Engineering for Advanced Thermoelectric Materials](https://doi.org/10.1002/adma.202505642) ★ | 2025 | Adv. Mater. | Wiley |
 | 23 | [Active Learning-Guided Accelerated Discovery of Ultra-Efficient High-Entropy Thermoelectrics](https://doi.org/10.1002/adma.202515054) | 2025 | Adv. Mater. | Wiley |
 | 24 | [Machine learning for accelerated prediction of lattice thermal conductivity at arbitrary temperature](https://doi.org/10.1039/d4dd00286e) | 2025 | Digit. Discovery | RSC |
 | 25 | [Exploiting chemical bonding principles to design high-performance thermoelectric materials](https://doi.org/10.1038/s41570-025-00695-6) ★ | 2025 | Nat. Rev. Chem. | Springer Nature |
@@ -78,13 +78,13 @@
 | 63 | [HH130: a standardized database of machine learning interatomic potentials, datasets, and its applications in the thermal transport of half-Heusler thermoelectrics](https://doi.org/10.1039/d4dd00240g) | 2024 | Digital Discovery | RSC |
 | 64 | [High-throughput discovery of metal oxides with high thermoelectric performance via interpretable feature engineering on small data](https://doi.org/10.1016/j.actamat.2023.119421) | 2024 | Acta Mater. | Elsevier |
 | 65 | [Predicting lattice thermal conductivity via machine learning: a mini review](https://doi.org/10.1038/s41524-023-00964-2) ★ | 2023 | npj Comput. Mater. | Springer Nature |
-| 66 | [Artificial Intelligence Guided Thermoelectric Materials Design and Discovery](https://doi.org/10.1002/aelm.202300042) ★ | 2023 | Adv. Electron. Mater. | Wiley |
+| 66 | [Artificial Intelligence Guided Thermoelectric Materials Design and Discovery](https://doi.org/10.1002/aelm.202300042) | 2023 | Adv. Electron. Mater. | Wiley |
 | 67 | [Interpretable Machine Learning Workflow for Evaluating and Analyzing the Performance of High-Entropy GeTe-Based Thermoelectric Materials](https://doi.org/10.1021/acsaelm.3c00662) | 2023 | ACS Appl. Electron. Mater. | ACS |
 | 68 | [Machine learning for predicting ZT values of high-performance thermoelectric materials in mid-temperature range](https://doi.org/10.1063/5.0160055) | 2023 | J. Appl. Phys. | AIP |
 | 69 | [High-throughput computational discovery of 3218 ultralow thermal conductivity and dynamically stable materials by dual machine learning models](https://doi.org/10.1039/d3ta04874h) | 2023 | J. Mater. Chem. A | RSC |
 | 70 | [Experimentally validated machine learning predictions of ultralow thermal conductivity for SnSe materials](https://doi.org/10.1039/d3tc01450a) | 2023 | J. Mater. Chem. C | RSC |
 | 71 | [In Pursuit of the Exceptional: Research Directions for Machine Learning in Chemical and Materials Science](https://doi.org/10.1021/jacs.3c04783) ★ | 2023 | J. Am. Chem. Soc. | ACS |
-| 72 | [A critical review of machine learning techniques on thermoelectric materials](https://doi.org/10.1021/acs.jpclett.3c00180) ★ | 2023 | J. Phys. Chem. Lett. | ACS |
+| 72 | [A critical review of machine learning techniques on thermoelectric materials](https://doi.org/10.1021/acs.jpclett.2c03073) ★ | 2023 | J. Phys. Chem. Lett. | ACS |
 | 73 | [Hybrid data-driven discovery of high-performance silver selenide-based thermoelectric composites](https://doi.org/10.1016/j.compositesb.2023.110755) | 2023 | Compos. Part B Eng. | Elsevier |
 | 74 | [Ensemble learning-based investigation of thermal conductivity of Bi2Te2.7Se0.3-based thermoelectric clean energy materials](https://doi.org/10.1016/j.est.2023.107221) | 2023 | J. Energy Storage | Elsevier |
 | 75 | [Knowledge extraction and performance improvement of Bi2Te3-based thermoelectric materials by machine learning](https://doi.org/10.1016/j.mtphys.2023.100971) | 2023 | Mater. Today Phys. | Elsevier |
@@ -103,7 +103,7 @@
 | 88 | [Machine learning-assisted ultrafast flash sintering of high-performance and flexible silver-selenide thermoelectric devices](https://doi.org/10.1016/j.nanoen.2022.107351) | 2022 | Nano Energy | Elsevier |
 | 89 | [Lattice thermal conductivity of half-Heuslers with density functional theory and machine learning: enhancing predictivity by active sampling with principal component analysis](https://doi.org/10.1088/1361-648X/ac588b) | 2022 | J. Phys. Condens. Matter | IOP |
 | 90 | [Predicting the thermal conductivity of Bi2Te3-based thermoelectric energy materials: a machine learning approach](https://doi.org/10.1016/j.est.2022.104441) | 2022 | J. Energy Storage | Elsevier |
-| 91 | [A deep learning perspective into the figure-of-merit of thermoelectric materials](https://doi.org/10.1016/j.matdes.2022.110551) | 2022 | Mater. Des. | Elsevier |
+| 91 | [A deep learning perspective into the figure-of-merit of thermoelectric materials](https://doi.org/10.1016/j.matlet.2022.132299) | 2022 | Mater. Lett. | Elsevier |
 | 92 | [Accurate and explainable machine learning for the power factors of diamond-like thermoelectric materials](https://doi.org/10.1016/j.actamat.2021.117551) | 2022 | Acta Mater. | Elsevier |
 | 93 | [Predicting thermoelectric transport properties from composition with attention-based deep learning](https://doi.org/10.1038/s41524-022-00833-4) | 2022 | npj Comput. Mater. | Springer Nature |
 | 94 | [Theoretical study of Ba2X6 (X = S, Se, Te) for thermoelectric applications based on first-principles calculations and machine learning](https://doi.org/10.1016/j.rinp.2022.105552) | 2022 | Results Phys. | Elsevier |
@@ -113,7 +113,7 @@
 | 98 | [Predicting thermoelectric properties from chemical formula with explicitly identifying dopant effects](https://doi.org/10.1038/s41524-021-00564-y) | 2021 | npj Comput. Mater. | Springer Nature |
 | 99 | [Determining usefulness of machine learning in materials discovery using simulated research landscapes](https://doi.org/10.1039/d1cp01761f) | 2021 | Phys. Chem. Chem. Phys. | RSC |
 | 100 | [Cross-property deep transfer learning framework for enhanced predictive analytics on small materials data](https://doi.org/10.1038/s41467-021-26921-5) | 2021 | Nat. Commun. | Springer Nature |
-| 101 | [Data-driven thermoelectric modeling: Current challenges and prospects](https://doi.org/10.1016/j.mattod.2021.04.011) ★ | 2021 | Mater. Today | Elsevier |
+| 101 | [Data-driven thermoelectric modeling: Current challenges and prospects](https://doi.org/10.1063/5.0054532) ★ | 2021 | J. Appl. Phys. | AIP |
 | 102 | [Machine learning approach for the prediction and optimization of thermal transport properties](https://doi.org/10.1016/j.ijheatmasstransfer.2021.121112) | 2021 | Int. J. Heat Mass Transfer | Elsevier |
 | 103 | [FeeAleSi thermoelectric (FAST) materials and modules: diffusion couple and machine-learning-assisted materials development](https://doi.org/10.1016/j.actamat.2021.116991) | 2021 | Acta Mater. | Elsevier |
 | 104 | [The Role of Machine Learning in the Understanding and Design of Materials](https://dx.doi.org/10.1021/jacs.0c09105) ★ | 2020 | J. Am. Chem. Soc. | ACS |
@@ -127,9 +127,9 @@
 | 112 | [Materials discovery and properties prediction in thermal transport via materials informatics: A mini review](https://doi.org/10.1016/j.cct.2019.105886) ★ | 2019 | Comput. Mater. Sci. | Elsevier |
 | 113 | [Data-driven analysis of electron relaxation times in PbTe-type thermoelectric materials](https://doi.org/10.1080/14686996.2019.1603885) | 2019 | Sci. Technol. Adv. Mater. | Taylor & Francis |
 | 114 | [Coupling High-throughput Property Map to Machine Learning for Predicting Lattice Thermal Conductivity](https://doi.org/10.1021/acs.chemmater.9b01046) | 2019 | Chem. Mater. | ACS |
-| 115 | [Machine Learning Interatomic Potentials as Emerging Tools for Materials Science](https://doi.org/10.1002/adma.201902765) | 2019 | Adv. Mater. | Wiley |
+| 115 | [Machine Learning Interatomic Potentials as Emerging Tools for Materials Science](https://doi.org/10.1002/adma.201902765) ★ | 2019 | Adv. Mater. | Wiley |
 | 116 | [Machine-learning guided discovery of a new thermoelectric material](https://doi.org/10.1126/science.aax4112) | 2019 | Science | AAAS |
-| 117 | [Machine learning for renewable energy materials](https://doi.org/10.1039/C9TA00118F) | 2019 | J. Mater. Chem. A | RSC |
+| 117 | [Machine learning for renewable energy materials](https://doi.org/10.1039/C9TA02356A) ★| 2019 | J. Mater. Chem. A | RSC |
 | 118 | [Solving the coloring problem in half-heusler structures: machine-learning predictions and experimental validation](https://doi.org/10.1021/acs.inorgchem.9b01083) | 2019 | Inorg. Chem. | ACS |
 | 119 | [Prediction of Seebeck Coefficient for Compounds without Restriction to Fixed Stoichiometry: A Machine Learning Approach](https://doi.org/10.1002/jcc.25067) | 2017 | J. Comput. Chem. | Wiley |
 | 120 | [Perspective: Web-based machine learning models for real-time screening of thermoelectric materials properties](https://doi.org/10.1063/1.4952607) ★ | 2016 | APL Mater. | AIP |
